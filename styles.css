@@ -186,3 +186,11 @@ label{
 .text a:hover{
     color: #8371fd;
 }
+@media (min-width : 319px) and (max-width : 480px) {
+    .carousel{
+        display: none;
+    }
+    main.sign-up-mode .forms-wrap{
+        left: 0%;
+    }
+}
