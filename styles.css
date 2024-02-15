@@ -73,6 +73,11 @@ main.sign-up-mode .carousel{
     border-radius: 2rem;
     transition: 0.8s ease-in-out;
 }
+.carousel img{
+    height: 120%;
+    width: 120%;
+    margin: auto;
+}
 .sign-up-form{
     opacity: 0;
     pointer-events: none;
